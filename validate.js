@@ -17,6 +17,6 @@ function validate(a, b, c) {
   if (a + b + c === 180) {
     output.innerText = "The triangle can be formed";
   } else {
-    output.innerText = "Check your angles again";
+    output.innerText = "Check your angles again, they do not add up to 180";
   }
 }

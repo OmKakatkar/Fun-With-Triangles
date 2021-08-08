@@ -4,17 +4,12 @@
   box-sizing: border-box;
 }
 
-body {
-  height: 100%;
-}
-
 main {
   text-align: center;
   background-color: darkorange;
   max-width: 500px;
   margin: 0 auto;
-  height: 100%;
-  padding-bottom: 2rem;
+  padding-bottom: 5rem;
 }
 
 h1 {
@@ -70,8 +65,4 @@ h2 {
   width: 50%;
   margin: 0 auto;
   margin-top: 0.5rem;
-}
-
-.main{
-    height: 100vh;
 }
