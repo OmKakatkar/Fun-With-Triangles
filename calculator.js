@@ -1,4 +1,3 @@
-
 // For Calculator
 // 3 Sides
 const side1 = document.querySelector("#side1");

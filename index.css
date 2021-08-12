@@ -41,7 +41,8 @@ h1 {
 
 .label,
 input[type="number"],
-.output {
+.output,
+.side {
   font-size: 1.2rem;
   margin: 0.5rem;
   text-align: center;
@@ -65,4 +66,23 @@ h2 {
   width: 50%;
   margin: 0 auto;
   margin-top: 0.5rem;
+}
+
+label,
+p {
+  margin-top: 1rem;
+  display: block;
+  font-size: 1.3rem;
+  margin: 0rem auto;
+}
+
+.container-question {
+  width: 90%;
+  margin: 1rem auto;
+}
+
+.side,
+label {
+  margin: 1rem auto;
+  display: block;
 }
